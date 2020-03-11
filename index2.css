@@ -1,0 +1,29 @@
+.homecontent{
+    color: white;
+    justify-items: center;
+    justify-content: center;
+}
+.banner-inner{
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    left: 0;
+    padding: 0 30px;
+    box-sizing: border-box;
+    top: 50%;
+    color: #ffffff;
+    text-align: center;
+    margin-top: -110px;
+
+}
+section{
+    display: block;
+}
+.feature{
+    color: black;
+    background-color: rgba(255, 255, 255, 0.8);
+    min-height: 100%;
+    text-align: center;
+    top: 50%;
+
+}
